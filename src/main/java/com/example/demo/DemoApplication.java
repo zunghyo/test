@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("args = " + args);
 		System.out.println("webhook test");
+		System.out.println("webhook test2");
 	}
 	
 }
